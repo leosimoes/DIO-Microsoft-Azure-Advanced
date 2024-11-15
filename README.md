@@ -2,6 +2,7 @@
 
 ## Projetos
 1. Docker: Utilização Prática no Cenário de Microsserviços
+2. Criando um Pipeline de Deploy de uma Aplicação Utilizando Gitlab, Docker e Kubernetes
 
 
 ## Referências 
